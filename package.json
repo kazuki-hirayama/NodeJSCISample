@@ -1,0 +1,27 @@
+{
+  "name": "nodejscisample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazuki-hirayama/NodeJSCISample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazuki-hirayama/NodeJSCISample/issues"
+  },
+  "homepage": "https://github.com/kazuki-hirayama/NodeJSCISample#readme",
+  "devDependencies": {
+    "intelli-espower-loader": "^1.0.1",
+    "mocha-junit-reporter": "^1.21.0",
+    "power-assert": "^1.6.1"
+  }
+}
